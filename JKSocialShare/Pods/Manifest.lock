@@ -1,0 +1,16 @@
+PODS:
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - WeiboSDK (3.1.1)
+
+DEPENDENCIES:
+  - Masonry (~> 0.6.3)
+  - MBProgressHUD (~> 0.9.1)
+  - WeiboSDK (~> 3.1.1)
+
+SPEC CHECKSUMS:
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  WeiboSDK: ebdd7db58670dc0f8a4389a0b9b3069bcbc1d034
+
+COCOAPODS: 0.39.0
